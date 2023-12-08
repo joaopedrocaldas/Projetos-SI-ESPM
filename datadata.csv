@@ -1,0 +1,64 @@
+Nome;Idade;Onde se enquadra sua renda familiar mensal? (valor do salário mínimo: R$ 1.320)   ;Qual é o seu meio de transporte principal? ;Em uma escala de 1 a 5, classifique a satisfação com o seu meio de transporte principal. (1 - Insatisfeito, 2 - Pouco Satisfeito, 3 - Neutro, 4 - Satisfeito, 5 - Muito Satisfeito);"Avalie seu nível de concordância com a afirmação: ""O transporte público na sua região é confiável."" (1 - Discordo Totalmente a 5 - Concordo Totalmente)";Quantos quilômetros, em média, você percorre diariamente usando seu meio de transporte principal?;"Qual é o custo médio, por dia, do seu meio de transporte principal?
+";Em uma escala de 1 a 5, classifique o nível de acessibilidade do seu meio de transporte principal. (1 - Muito Inacessível a 5 - Muito Acessível);Avalie seu grau de preocupação com a sustentabilidade ambiental do seu meio de transporte. (1 - Não Preocupado a 5 - Extremamente Preocupado);Quantas horas, em média, você gasta por dia utilizando seu meio de transporte principal?
+Marcia ;20;acima de 15 salários mínimos;carro;2;2;5,00;40,00;3,00;1;4
+Rodrigo ;20;entre 3 a 5 salários mínimos;carro;5;3;30,00;40,00;4,00;5;2
+Leandro ;48;acima de 15 salários mínimos;carro;4;3;20,00;50,00;5,00;3;2
+Kátia cristina ;45;entre 1 a 3 salários mínimos;aplicativo;4;3;1,50;100,00;5,00;5;1
+João Vitor Diniz Ribeiro ;21;entre 5 a 15 salários mínimos;carro;5;3;15,00;3,00;2,00;3;0,33
+Bruno;24;acima de 15 salários mínimos;carro;3;2;20,00;60,00;2,00;1;1
+Beatriz;19;acima de 15 salários mínimos;carro;5;5;40,00;17,00;4,00;4;2
+Ian ;25;acima de 15 salários mínimos;metrô;2;2;10,00;17,00;3,00;1;2,5
+Geovanna;18;até 1 salário mínimo;ônibus;4;3;5,00;10,00;3,00;4;1
+Renato Nakasone Shiruo;21;entre 5 a 15 salários mínimos;metrô;3;3;25,00;8,80;4,00;5;2
+Emily Virginio da Rocha Brito;15;entre 3 a 5 salários mínimos;carro;4;2;-;60,00;2,00;5;4
+Sarah Levy Castex Aly Fernandes ;25;até 1 salário mínimo;a pé;3;3;8,00;0,00;1,00;5;2
+Ana ;26;entre 1 a 3 salários mínimos;ônibus;3;3;0,00;14,00;4,00;4;2,5
+Leandro Viellas Saramago Pinheiro;17;entre 1 a 3 salários mínimos;ônibus;2;3;50,00;10,00;3,00;5;2
+Eliane;52;entre 5 a 15 salários mínimos;metrô;2;1;50,00;10,00;3,00;5;2
+Matheus;29;entre 3 a 5 salários mínimos;carro;2;2;5,00;25,00;2,00;2;1
+Marilia;24;entre 5 a 15 salários mínimos;ônibus;4;4;14,00;10,50;3,00;4;2
+Pedro Sampaio ;21;entre 3 a 5 salários mínimos;ônibus;3;4;30,00;11,50;1,00;2;2
+Luiz;21;acima de 15 salários mínimos;a pé;3;4;1,00;0,00;5,00;1;1
+Bernardo;21;entre 3 a 5 salários mínimos;metrô;2;4;15,00;6,60;3,00;3;1
+Michelle;45;entre 5 a 15 salários mínimos;carro;3;2;30,00;60,00;3,00;5;3
+Gabriel Diniz ;24;entre 5 a 15 salários mínimos;metrô;4;4;3,00;8,80;2,00;4;0,66
+Leonardo ;25;acima de 15 salários mínimos;metrô;3;2;5,00;10,00;4,00;1;1
+Gabriel ;24;acima de 15 salários mínimos;aplicativo;3;2;7,00;40,00;5,00;4;1
+Marcos Munhoz Claro ;65;entre 5 a 15 salários mínimos;carro;5;3;5,00;8,00;2,00;3;0,66
+Fabia junqueira;43;entre 3 a 5 salários mínimos;carro;3;2;3,00;50,00;2,00;4;4
+Francine ;44;entre 5 a 15 salários mínimos;carro;4;1;10,00;10,00;4,00;1;0,5
+Rafaela;36;acima de 15 salários mínimos;carro;3;1;10,00;10,00;1,00;5;2
+Guilherme;21;acima de 15 salários mínimos;metrô;3;5;20,00;8,80;4,00;2;2,25
+Simone;48;acima de 15 salários mínimos;carro;4;3;50,00;10,00;4,00;4;2
+Beatriz Potenza Moreira ;16;entre 3 a 5 salários mínimos;carro;4;2;625,00;50,00;3,00;5;7
+Henrique;25;entre 5 a 15 salários mínimos;ônibus;1;4;12,00;20,00;4,00;4;3
+sabrina;17;entre 1 a 3 salários mínimos;a pé;3;4;15,00;0,00;3,00;5;0,5
+Fernanda;42;acima de 15 salários mínimos;metrô;3;3;25,00;10,00;3,00;4;1,5
+Adalberto Rodrigues Sobreiro junior ;40;acima de 15 salários mínimos;carro;5;1;5,00;2,00;3,00;3;1
+Marina ;19;entre 5 a 15 salários mínimos;metrô;3;4;25,00;6,60;4,00;3;2,5
+Diogo Yamada Assis;21;entre 5 a 15 salários mínimos;metrô;3;3;30,00;4,20;3,00;1;2,5
+Luiza;31;entre 5 a 15 salários mínimos;aplicativo;4;4;5,00;15,00;4,00;2;1,5
+Claudia;52;acima de 15 salários mínimos;carro;3;4;10,00;20,00;5,00;5;0,66
+Nicolas;33;acima de 15 salários mínimos;carro;3;3;4,00;2,55;4,00;3;0,66
+Guilherme Oliveira Casagrande;21;entre 5 a 15 salários mínimos;a pé;5;4;40,00;8,80;5,00;1;2
+Loide;58;entre 5 a 15 salários mínimos;carro;5;5;10,00;5,00;5,00;2;0,5
+Gabriel Forms;22;entre 3 a 5 salários mínimos;carro;4;4;2,00;5,00;4,00;3;2
+Gabriel;22;até 1 salário mínimo;carro;5;5;5,00;3,19;5,00;3;1
+Ligia;43;acima de 15 salários mínimos;carro;5;3;10,00;20,00;5,00;4;1
+Davi Alexandre ;21;entre 3 a 5 salários mínimos;bicicleta;4;4;10,00;0,00;5,00;5;1
+Paula;25;entre 5 a 15 salários mínimos;carro;5;2;1,00;5,00;3,00;4;0,08
+Gabriela Mascarenhas Mazaro Preto ;46;acima de 15 salários mínimos;carro;5;4;20,00;20,00;5,00;3;4
+Ana roberta liette;48;entre 5 a 15 salários mínimos;carro;2;3;20,00;30,00;4,00;4;2
+Litia Meira ;43;acima de 15 salários mínimos;carro;4;3;25,00;80,00;3,00;5;2
+Cecília;64;entre 5 a 15 salários mínimos;carro;4;2;0,80;5,00;4,00;4;0,5
+Pedro Henrique Lustosa;18;acima de 15 salários mínimos;carro;2;1;12,50;7,00;4,00;3;4
+Jacira Avelino dos Santos;65;acima de 15 salários mínimos;aplicativo;4;3;-;12,00;4,00;5;1
+Rosimeire Barros ;54;entre 5 a 15 salários mínimos;carro;1;3;10,00;30,00;3,00;5;2
+Veronica Espinoza;38;entre 5 a 15 salários mínimos;carro;4;4;10,00;22,00;5,00;5;1
+Claudia;59;entre 1 a 3 salários mínimos;carro;2;3;15,00;70,00;3,00;5;4
+Davi Braga Vieira Costa;34;entre 1 a 3 salários mínimos;bicicleta;3;3;5,00;2,50;4,00;1;1,5
+Rachel Catherine Denucci Amaral;21;entre 5 a 15 salários mínimos;moto;3;3;5,00;3,00;2,00;2;0,66
+Mônica da Silva ;58;entre 5 a 15 salários mínimos;carro;5;3;12,00;-;5,00;5;1
+Luiz Fernando Pereira Rodrigues ;23;entre 1 a 3 salários mínimos;carro;4;2;8,00;20,00;3,00;5;2
+Natália Aly Claro;38;acima de 15 salários mínimos;carro;4;4;7,50;7,50;3,00;4;1
+Claudia;55;entre 3 a 5 salários mínimos;carro;3;3;40,00;300,00;3,00;5;12
